@@ -1,6 +1,6 @@
-Introduction to LLM (Generative AI) and Prompt Engineering
+# Introduction to LLM (Generative AI) and Prompt Engineering
 1. Introduction to Artificial Intelligence (AI)
-What is Artificial Intelligence?
+### What is Artificial Intelligence?
 
 Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines and software capable of performing tasks that normally require human intelligence.
 
