@@ -3,12 +3,12 @@ For First-Year B.Tech Students
 
 "Imagine I'm teaching this in a classroom. My goal isn't just to help you memorize Prompt Engineering—it is to help you understand it."
 
-Chapter 1: Introduction to Prompt Engineering
+## Chapter 1: Introduction to Prompt Engineering
 What is Prompt Engineering?
 
 Prompt Engineering is the art and science of writing instructions (called prompts) that guide an Artificial Intelligence (AI) model to produce useful, accurate, and relevant responses.
 
-A prompt can be:
+# A prompt can be:
 
 A question
 An instruction
