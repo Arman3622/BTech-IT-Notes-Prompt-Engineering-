@@ -1,4 +1,4 @@
- Prompt Engineering Notes (Professor's Edition)
+# Prompt Engineering Notes (Professor's Edition)
 For First-Year B.Tech Students
 
 "Imagine I'm teaching this in a classroom. My goal isn't just to help you memorize Prompt Engineering—it is to help you understand it."
